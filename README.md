@@ -1,2 +1,2 @@
 # SQL-Patient-Data-Project
-In this project, I used a dataset with over 1000 rows of information about various patients and analyzed the data in SQL.
+In this project, I used a dataset with over 1000 rows of information about various patients and analyzed the data in SQL. The dataset used included many different pieces of information about the project ranging from the patient ID, the medications they use, their age, and many more. The data was predominantly concerned with OCD, as well as other related issues such as depression and anxiety.
